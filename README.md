@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine Learning & Web Developement 
 - 💞️ I’m looking to collaborate on ML & Web Dev
 - 📫 How to reach me @linkedin.com/in/fuad-sanin/
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I like cats and books
 
 <!---
