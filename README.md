@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learing, Data Science and Web development
 - 🌱 I’m currently learning Machine Learning & Web Developement 
 - 💞️ I’m looking to collaborate on ML & Web Dev
-- 📫 How to reach me @linkedin.com/in/fuad-sanin/
+- 📫 How to reach me: @linkedin.com/in/fuad-sanin/
 - ⚡ Fun fact: I like cats and books
 
 <!---
