@@ -1,3 +1,6 @@
+![Fuad-san](https://github.com/user-attachments/assets/b10d3aa9-0a47-444e-8ea4-3728a9c7bbf3)
+
+
 - 👋 Hi, I’m Fuad
 - 👀 I’m interested in Machine Learing, Data Science and Web development
 - 🌱 I’m currently learning Machine Learning & Web Developement 
