@@ -4,7 +4,7 @@
 - 👀 I’m interested in Machine Learing, Data Science and Web development
 - 🌱 I’m currently learning Machine Learning & Web Developement 
 - 💬 Ask me about AI, Full stack and The Big Bang
-- 📫 How to reach me linkedin.com/in/fuad-sanin
+- 📫 How to reach me @ghostpersin 
 - ⚡ Fun fact: I like cats and books
 
 
